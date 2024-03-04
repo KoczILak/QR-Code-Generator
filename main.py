@@ -89,7 +89,7 @@ class GuiApp:
         # Main widget
         self.mainwindow = self.window
 
-    # mainloop
+    # Mainloop
     def run(self):
         self.mainwindow.mainloop()
 
