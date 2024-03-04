@@ -4,8 +4,6 @@ import tkinter.ttk as ttk
 import pyqrcodeng
 from time import sleep
 
-# TEST
-
 # Class
 class GuiApp:
     def __init__(self, master=None):
